@@ -1,0 +1,19 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "description": "A Playground for me to practice and toy with .NET",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidWoodward42/WebProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidWoodward42/WebProject/issues"
+  },
+  "homepage": "https://github.com/DavidWoodward42/WebProject#readme"
+}
