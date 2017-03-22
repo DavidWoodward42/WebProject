@@ -1,9 +1,11 @@
-#logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Directories
+bin/
+obj/
+TestResults/
 
-# Dependency directories
-node_modules/
-jspm_packages/
+# Web publishing
+*.Publish.xml
+
+# Compiled source code
+*.com
+*.class
